@@ -1,1 +1,1 @@
-For all the haplotype VCF files used in this study, please see PharmVar database (v4.0.4) at https://www.pharmvar.org/resources.  
+For all the haplotype VCF files used for simulation in this study, please see PharmVar database (v4.0.4) at https://www.pharmvar.org/resources.  
